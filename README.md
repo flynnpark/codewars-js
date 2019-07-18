@@ -3,6 +3,20 @@
 각 문제의 답은 `solutions` 폴더 내에 정리되어 있으며, 테스트 코드는 `test` 폴더에 정리되어 있음.
 
 <details>
+<summary>Day 004. Isograms</summary>
+
+[Codewars Link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
+
+An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.
+
+```javascript
+isIsogram("Dermatoglyphics") == true;
+isIsogram("aba") == false;
+isIsogram("moOse") == false; // -- ignore letter case
+```
+
+</details>
+<details>
 <summary>Day 003. Sort the odd</summary>
 
 [Codewars Link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
@@ -14,8 +28,8 @@ Zero isn't an odd number and you don't need to move it. If you have an empty arr
 
 _Example_
 
-```
-sortArray([5, 3, 2, 8, 1, 4]) == [1, 3, 2, 8, 5, 4]
+```javascript
+sortArray([5, 3, 2, 8, 1, 4]) == [1, 3, 2, 8, 5, 4];
 ```
 
 </details>
@@ -37,7 +51,7 @@ Given the triangle of consecutive odd numbers:
 
 Calculate the row sums of this triangle from the row index (starting at index 1) e.g.:
 
-```
+```javascript
 rowSumOddNumbers(1); // 1
 rowSumOddNumbers(2); // 3 + 5 = 8
 ```
