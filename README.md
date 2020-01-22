@@ -3,7 +3,7 @@
 각 문제의 답은 `solutions` 폴더 내에 정리되어 있으며, 테스트 코드는 `test` 폴더에 정리되어 있음.
 
 <details>
-<summary>Day 004. Isograms</summary>
+<summary>004. Isograms</summary>
 
 [Codewars Link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
 
@@ -17,7 +17,7 @@ isIsogram("moOse") == false; // -- ignore letter case
 
 </details>
 <details>
-<summary>Day 003. Sort the odd</summary>
+<summary>003. Sort the odd</summary>
 
 [Codewars Link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
 
@@ -34,7 +34,7 @@ sortArray([5, 3, 2, 8, 1, 4]) == [1, 3, 2, 8, 5, 4];
 
 </details>
 <details>
-<summary>Day 002. Sum of odd numbers</summary>
+<summary>002. Sum of odd numbers</summary>
 
 [Codewars Link](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
 
@@ -58,7 +58,7 @@ rowSumOddNumbers(2); // 3 + 5 = 8
 
 </details>
 <details>
-<summary>Day 001. Regex validate PIN code</summary>
+<summary>001. Regex validate PIN code</summary>
 
 [Codewars Link](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
 
