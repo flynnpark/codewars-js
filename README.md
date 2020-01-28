@@ -3,6 +3,16 @@
 각 문제의 답은 `solutions` 폴더 내에 정리되어 있으며, 테스트 코드는 `test` 폴더에 정리되어 있음.
 
 <details>
+<summary>006. Detect Pangram</summary>
+
+[Codewars Link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+
+A pangram is a sentence that contains every single letter of the alphabet at least once. For example, the sentence "The quick brown fox jumps over the lazy dog" is a pangram, because it uses the letters A-Z at least once (case is irrelevant).
+
+Given a string, detect whether or not it is a pangram. Return True if it is, False if not. Ignore numbers and punctuation.
+
+</details>
+<details>
 <summary>005. String ends with?</summary>
 
 [Codewars Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
