@@ -1,6 +1,6 @@
 const validatePIN = require('../solutions/001');
 
-test('Day 001. Regex validate PIN code', () => {
+test('001. Regex validate PIN code', () => {
   expect(validatePIN('1')).toBe(false);
   expect(validatePIN('12')).toBe(false);
   expect(validatePIN('123')).toBe(false);

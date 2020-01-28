@@ -3,9 +3,22 @@
 각 문제의 답은 `solutions` 폴더 내에 정리되어 있으며, 테스트 코드는 `test` 폴더에 정리되어 있음.
 
 <details>
+<summary>005. String ends with?</summary>
+
+[Codewars Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
+
+Complete the solution so that it returns true if the first argument(string) passed in ends with the 2nd argument (also a string).
+
+```javascript
+solution('abc', 'bc') // returns true
+solution('abc', 'd') // returns false
+```
+
+</details>
+<details>
 <summary>004. Isograms</summary>
 
-[Codewars Link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
+[Codewars Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 
 An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.
 
