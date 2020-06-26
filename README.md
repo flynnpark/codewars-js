@@ -3,6 +3,18 @@
 각 문제의 답은 `solutions` 폴더 내에 정리되어 있으며, 테스트 코드는 `test` 폴더에 정리되어 있음.
 
 <details>
+<summary>007. Break camelCase</summary>
+
+[Codewars Link](https://www.codewars.com/kata/5208f99aee097e6552000148)
+
+Complete the solution so that the function will break up camel casing, using a space between words.
+
+```javascript
+solution("camelCasing")  ==  "camel Casing"
+```
+
+</details>
+<details>
 <summary>006. Detect Pangram</summary>
 
 [Codewars Link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
