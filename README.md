@@ -5,7 +5,7 @@
 <details>
 <summary>009. Directions Reduction</summary>
 
-[Codewars Link](https://www.codewars.com/kata/5202ef17a402dd033c000009)
+#### [Codewars Link](https://www.codewars.com/kata/5202ef17a402dd033c000009)
 
 ### Once upon a time, on a way through the old wild mountainous west,…
 
@@ -77,7 +77,7 @@ See more examples in "Sample Tests:"
 <details>
 <summary>008. Title Case</summary>
 
-[Codewars Link](https://www.codewars.com/kata/5202ef17a402dd033c000009)
+#### [Codewars Link](https://www.codewars.com/kata/5202ef17a402dd033c000009)
 
 A string is considered to be in title case if each word in the string is either (a) capitalised (that is, only the first letter of the word is in upper case) or (b) considered to be an exception and put entirely into lower case unless it is the first word, which is always capitalised.
 
@@ -105,7 +105,7 @@ titleCase('the quick brown fox') // should return: 'The Quick Brown Fox'
 <details>
 <summary>007. Break camelCase</summary>
 
-[Codewars Link](https://www.codewars.com/kata/5208f99aee097e6552000148)
+#### [Codewars Link](https://www.codewars.com/kata/5208f99aee097e6552000148)
 
 Complete the solution so that the function will break up camel casing, using a space between words.
 
@@ -117,7 +117,7 @@ solution('camelCasing') == 'camel Casing';
 <details>
 <summary>006. Detect Pangram</summary>
 
-[Codewars Link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+#### [Codewars Link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 
 A pangram is a sentence that contains every single letter of the alphabet at least once. For example, the sentence "The quick brown fox jumps over the lazy dog" is a pangram, because it uses the letters A-Z at least once (case is irrelevant).
 
@@ -127,7 +127,7 @@ Given a string, detect whether or not it is a pangram. Return True if it is, Fal
 <details>
 <summary>005. String ends with?</summary>
 
-[Codewars Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
+#### [Codewars Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 
 Complete the solution so that it returns true if the first argument(string) passed in ends with the 2nd argument (also a string).
 
@@ -140,7 +140,7 @@ solution('abc', 'd'); // returns false
 <details>
 <summary>004. Isograms</summary>
 
-[Codewars Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
+#### [Codewars Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 
 An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.
 
@@ -154,7 +154,7 @@ isIsogram('moOse') == false; // -- ignore letter case
 <details>
 <summary>003. Sort the odd</summary>
 
-[Codewars Link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
+#### [Codewars Link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
 
 You have an array of numbers.
 Your task is to sort ascending odd numbers but even numbers must be on their places.
@@ -171,7 +171,7 @@ sortArray([5, 3, 2, 8, 1, 4]) == [1, 3, 2, 8, 5, 4];
 <details>
 <summary>002. Sum of odd numbers</summary>
 
-[Codewars Link](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
+#### [Codewars Link](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
 
 Given the triangle of consecutive odd numbers:
 
@@ -195,7 +195,7 @@ rowSumOddNumbers(2); // 3 + 5 = 8
 <details>
 <summary>001. Regex validate PIN code</summary>
 
-[Codewars Link](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
+#### [Codewars Link](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
 
 ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits.
 
