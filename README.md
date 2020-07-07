@@ -3,6 +3,20 @@
 각 문제의 답은 `solutions` 폴더 내에 정리되어 있으며, 테스트 코드는 `test` 폴더에 정리되어 있음.
 
 <details>
+<summary>010. Extract the domain name from a URL</summary>
+
+#### [Codewars Link](https://www.codewars.com/kata/514a024011ea4fb54200004b)
+
+Write a function that when given a URL as a string, parses out just the domain name and returns it as a string. For example:
+
+```javascript
+domainName('http://github.com/carbonfive/raygun') == 'github';
+domainName('http://www.zombie-bites.com') == 'zombie-bites';
+domainName('https://www.cnet.com') == 'cnet';
+```
+
+</details>
+<details>
 <summary>009. Directions Reduction</summary>
 
 #### [Codewars Link](https://www.codewars.com/kata/5202ef17a402dd033c000009)
@@ -96,9 +110,9 @@ Write a function that will convert a string into title case, given an optional l
 ### Example
 
 ```javascript
-titleCase('a clash of KINGS', 'a an the of') // should return: 'A Clash of Kings'
-titleCase('THE WIND IN THE WILLOWS', 'The In') // should return: 'The Wind in the Willows'
-titleCase('the quick brown fox') // should return: 'The Quick Brown Fox'
+titleCase('a clash of KINGS', 'a an the of'); // should return: 'A Clash of Kings'
+titleCase('THE WIND IN THE WILLOWS', 'The In'); // should return: 'The Wind in the Willows'
+titleCase('the quick brown fox'); // should return: 'The Quick Brown Fox'
 ```
 
 </details>
