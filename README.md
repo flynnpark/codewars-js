@@ -3,6 +3,21 @@
 각 문제의 답은 `solutions` 폴더 내에 정리되어 있으며, 테스트 코드는 `test` 폴더에 정리되어 있음.
 
 <details>
+<summary>011. Simple Pig Latin</summary>
+
+#### [Codewars Link](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
+
+Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
+
+### Examples
+
+```javascript
+pigIt('Pig latin is cool'); // igPay atinlay siay oolcay
+pigIt('Hello world !'); // elloHay orldway !
+```
+
+</details>
+<details>
 <summary>010. Extract the domain name from a URL</summary>
 
 #### [Codewars Link](https://www.codewars.com/kata/514a024011ea4fb54200004b)
