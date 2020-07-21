@@ -1,4 +1,4 @@
-# 001. (7kyu) Regex validate PIN code
+# 1. (7kyu) Regex validate PIN code
 
 #### [Codewars Link](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
 

@@ -1,6 +1,6 @@
 const isPangram = require('../solutions/006')
 
-test('006. Detect Pangram', () => {
+test('6. Detect Pangram', () => {
   const cases = [
     // Not pangrams
     [

@@ -1,6 +1,6 @@
 const solution = require('../solutions/005');
 
-test('005. String ends with?', () => {
+test('5. String ends with?', () => {
   expect(solution('samurai', 'ai')).toBe(true);
   expect(solution('sumo', 'omo')).toBe(false);
   expect(solution('ninja', 'ja')).toBe(true);

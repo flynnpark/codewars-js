@@ -1,4 +1,4 @@
-# 002. (7kyu) Sum of odd numbers
+# 2. (7kyu) Sum of odd numbers
 
 #### [Codewars Link](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
 

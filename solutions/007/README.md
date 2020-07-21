@@ -1,4 +1,4 @@
-# 007. (6kyu) Break camelCase
+# 7. (6kyu) Break camelCase
 
 #### [Codewars Link](https://www.codewars.com/kata/5208f99aee097e6552000148)
 

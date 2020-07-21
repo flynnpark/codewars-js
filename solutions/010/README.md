@@ -1,4 +1,4 @@
-# 010. (5kyu) Extract the domain name from a URL
+# 10. (5kyu) Extract the domain name from a URL
 
 #### [Codewars Link](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 

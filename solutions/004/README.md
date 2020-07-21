@@ -1,4 +1,4 @@
-# 004. (7kyu) Isograms
+# 4. (7kyu) Isograms
 
 #### [Codewars Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 

@@ -1,4 +1,4 @@
-# 003. (6kyu) Sort the odd
+# 3. (6kyu) Sort the odd
 
 #### [Codewars Link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
 

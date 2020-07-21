@@ -1,4 +1,4 @@
-# 011. (5kyu) Simple Pig Latin
+# 11. (5kyu) Simple Pig Latin
 
 #### [Codewars Link](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 
